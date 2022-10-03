@@ -1,15 +1,12 @@
-# improved-osk-gnome-ext
+# improved-popos-osk
 
-Makes Gnome's onscreen keyboard more useable.
+Improve the stock PopOS OSK, without redefining it completely
 
 Features:
 * More buttons like CTRL, F-Keys, Arrow Keys...
 * Configurable keyboard size (landscape/portrait)
 * Toggle auto keyboard popup on touch input 
-* Works in gnome password modals
 * Statusbar indicator to toggle keyboard
-
-This extension is a fork of [SebastianLuebke/improved-osk-gnome-ext](https://github.com/SebastianLuebke/improved-osk-gnome-ext). 
 
 ![Screenshot](screenshots/1.png)
 
@@ -19,17 +16,17 @@ This extension is a fork of [SebastianLuebke/improved-osk-gnome-ext](https://git
 
 Clone the git repo
 
-```console
-git clone https://github.com/nick-shmyrev/improved-osk-gnome-ext.git ~/.local/share/gnome-shell/extensions/improvedosk@nick-shmyrev.dev
+```
+git clone https://github.com/Apacelus/improved-popos-osk.git ~/.local/share/gnome-shell/extensions/improved-popos-osk@apacelus.github.com
 ```
 
 ### From extensions.gnome.org
 
-https://extensions.gnome.org/extension/4413/improved-osk/
+Coming soon:tm:
 
 ## Activation
 
-After installing and enabling extension, reload Gnome Shell. On X11, press `alt + F2` and enter `r`. On Wayland, log out and back in to reload Gnome Shell.
+After installing and enabling extension, log out and back in to reload Gnome Shell.
 
 ## FAQ
 
