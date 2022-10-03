@@ -307,7 +307,7 @@ function override_getDefaultKeysForRow(row, numRows, level) {
       ],
       [
         {
-          label: "⇑",
+          label: "⬆",
           width: 2.5,
           level: 1,
           right: true,
@@ -337,7 +337,7 @@ function override_getDefaultKeysForRow(row, numRows, level) {
       ],
       [
         {
-          label: "⇑",
+          label: "⬆",
           width: 2.5,
           level: 0,
           right: true,
